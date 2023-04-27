@@ -24,7 +24,7 @@ Describe your project in 1 or 2 sentences.
 [Hello microverse] is a test project to help us know how to install and use linters in our project to avoid coding errors
 
 🛠 Built With
-git/github
+* HTML, CSS
 
 Client
 Server
@@ -55,10 +55,15 @@ To get a local copy up and running, follow these steps.
 Prerequisites
 In order to run this project you need:
 * A Vs code
-* A Github account
+* Understanding Git commands
+* have some knowledge of html and CSS
+* Basic understanding of linters
+
 
 Setup
-Clone this repository to your desired folder:
+Clone this repository to your desired folder using: 
+git clone https://github.com/Developer-Kingz/Hello-Microverse.git
+move to your desired folder: cd my-folder
 
 Install
 Install this project with:
@@ -70,7 +75,11 @@ To run the project, execute the following command:
 npm install to get the node_modules
 
 👥 Authors
-i am the only author of this project
+Kingsley Chidozie Igbor
+
+* Github: @Developer-Kingz
+* LinkedIn: https://www.linkedin.com/in/kingsley-igbor-14b04720b/
+* Twitter: @DaKingzMan
 
 🔭 Future Features
 
